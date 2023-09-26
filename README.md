@@ -1,17 +1,41 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/bEPlIkIB)
-# hw01
 
-Edit this README file to include a brief biography of yourself. Your README should include the following elements:
-* Headers (one or more)
-* Emphasis (italics or/and bold)
-* Lists
-* Images: add a picture (of yourself or something else) to your repo and embed it in your README
-* Links
-* A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
+
+
+
+
+# Self introduction 
+My name is Yue, and I am a first year MACSS student. I don't have prior coding experience, so I will try my best to consume everything and hopefully master the skills to assit future social science research. 
+
+## My hobbies
+I like to painting, listening to music, and playing with my cat. For sports, I practice figure skating, and my goal is to be able to do Axel jumps. 
+
+### My recommend restaraunt
+
+I recommend 
+- **Artopolis** It's a Greek backery. They have amazing breads and cakes.
+- **Kinton Ramen** Pork Spicy Ramen is really good.
+- **Aba** A Mediterranean restaraunt
+
+#### an image of cat
+
+
+![I wanted to put a picture of my cat but I failed to convert pdf to an url, so there is a link of a picture of a cat similar to my cat]
+(https://pbs.twimg.com/media/DRnYV6FVAAEAkLY.jpg)
+
+
+##### a link to my cat's instagram
+a link to the cat's instagram page, his name is Daesik [The Orange Tabby Cat](https://www.instagram.com/ar_eyu123/)
+
+###### Summary and reflection
+
+To complete this homework, GitHub Doc of basic writing and formating syntax helped me a lot. It gives me a clear understanding of how computer takes the instruction and how it will turn out after processing it. The logic behind using these different syntax also reflect with what programs do-- to tell the machine what to do in their language. I feel it's very interesting to learn different markdowns since it's surprsing and novel to me to see how the result turns out. 
+
+
 
 
 
 ## 📚  Resources 
+
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
 * [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
 * [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
