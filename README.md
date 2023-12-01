@@ -3,32 +3,29 @@
 
 
 
-# Self introduction 
-My name is Yue, and I am a first year MACSS student. I don't have prior coding experience, so I will try my best to consume everything and hopefully master the skills to assit future social science research. 
+# Self-introduction 
+My name is Yue, and I am a first-year MACSS student. I don't have prior coding experience, so I will try my best to consume everything and hopefully master the skills to assist future social science research. 
 
 ## My hobbies
-I like to painting, listening to music, and playing with my cat. For sports, I practice figure skating, and my goal is to be able to do Axel jumps. 
+I like painting, listening to music, and playing with my cat. For sports, I practice figure skating, and my goal is to be able to do Axel jumps. 
 
-### My recommend restaraunt
+## My recommend restaurant
 
 I recommend 
-- **Artopolis** It's a Greek backery. They have amazing breads and cakes.
+- **Artopolis** A Greek bakery. They have amazing breads and cakes.
 - **Kinton Ramen** Pork Spicy Ramen is really good.
 - **Aba** A Mediterranean restaraunt
 
-#### an image of cat
+## an image of 
 
 
 ![I wanted to put a picture of my cat but I failed to convert pdf to an url, so there is a link of a picture of a cat similar to my cat]
 (https://pbs.twimg.com/media/DRnYV6FVAAEAkLY.jpg)
 
 
-##### a link to my cat's instagram
-a link to the cat's instagram page, his name is Daesik [The Orange Tabby Cat](https://www.instagram.com/ar_eyu123/)
+## Summary and reflection
 
-###### Summary and reflection
-
-To complete this homework, GitHub Doc of basic writing and formating syntax helped me a lot. It gives me a clear understanding of how computer takes the instruction and how it will turn out after processing it. The logic behind using these different syntax also reflect with what programs do-- to tell the machine what to do in their language. I feel it's very interesting to learn different markdowns since it's surprsing and novel to me to see how the result turns out. 
+To complete this homework, Git Hub Doc of basic writing and the format of syntax helped me a lot.  The logic behind using these different syntaxs also reflects what programs do-- to tell the machine what to do in their language. I feel it's very interesting to learn different markdowns.
 
 
 
